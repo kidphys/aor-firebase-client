@@ -23,7 +23,7 @@
     "rest"
   ],
   "dependencies": {
-    "firebase": "^4.1.3",
+    "firebase": "^4.5.1",
     "react": "^15.6.1"
   },
   "devDependencies": {
